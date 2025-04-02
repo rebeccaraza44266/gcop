@@ -3,3 +3,4 @@ name = "gcop"
 version = "0.1.0"
 description = "🚀 AI-Powered Git Commit Assistant | Automate Commit Messages, Streamline Git Workflow. Help you write better git commit message."
 requires-python = ">=3.10"
+# clarify the control flow
