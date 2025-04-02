@@ -1,0 +1,9 @@
+"""🚀 AI-Powered Git Commit Assistant | Automate Commit Messages"""
+
+
+def main() -> None:
+    print("ok")
+
+
+if __name__ == "__main__":
+    main()
