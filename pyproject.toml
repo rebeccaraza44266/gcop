@@ -5,3 +5,4 @@ description = "🚀 AI-Powered Git Commit Assistant | Automate Commit Messages, 
 requires-python = ">=3.10"
 # clarify the control flow
 # match the style used in the rest of the module
+# match the style used in the rest of the module
