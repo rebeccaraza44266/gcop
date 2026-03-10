@@ -26,3 +26,4 @@
 - chore: add a note about the defaults
 - chore: fix a small wording issue
 - chore: add a note about the defaults
+- docs: link the usage section
